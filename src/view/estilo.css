@@ -1,0 +1,51 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: #f5f6fa;
+}
+
+.header {
+    -fx-background-color: #273469;
+}
+
+.titulo {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.header .titulo {
+    -fx-text-fill: white;
+}
+
+.subtitulo {
+    -fx-font-size: 14px;
+}
+
+.header .subtitulo {
+    -fx-text-fill: #d9def5;
+}
+
+.table-view {
+    -fx-background-color: white;
+}
+
+.table-view .column-header {
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-padding: 8px 15px;
+    -fx-cursor: hand;
+}
+
+.botao-principal {
+    -fx-font-weight: bold;
+}
+
+.botao-remover {
+    -fx-text-fill: #b00020;
+}
+
+.text-field,
+.text-area {
+    -fx-pref-width: 350px;
+}

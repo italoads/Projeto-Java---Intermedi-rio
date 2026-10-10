@@ -1,0 +1,9 @@
+/build/
+/nbproject/private/
+/dist/
+/target/
+/bin/
+*.class
+*.db
+.idea/
+.vscode/
